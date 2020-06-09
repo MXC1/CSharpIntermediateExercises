@@ -10,13 +10,18 @@ namespace Section2ClassesExercises
 
         static void Main(string[] args)
         {
+
+        }
+
+        static void testStopWatch()
+        {
             try
             {
-                
-            // validOperation();
-            // twoStarts();
-            // twoStops();
-            noStart();
+
+                // validOperation();
+                // twoStarts();
+                // twoStops();
+                noStart();
 
             }
             catch (System.InvalidOperationException e)
@@ -50,7 +55,8 @@ namespace Section2ClassesExercises
             System.Console.WriteLine(stopWatch.getDuration());
         }
 
-        static void noStart() {
+        static void noStart()
+        {
             System.Console.WriteLine(stopWatch.getDuration());
         }
     }
