@@ -1,0 +1,13 @@
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\bin\Debug\netcoreapp3.1\Section2ClassesExercises.exe
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\bin\Debug\netcoreapp3.1\Section2ClassesExercises.deps.json
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\bin\Debug\netcoreapp3.1\Section2ClassesExercises.runtimeconfig.json
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\bin\Debug\netcoreapp3.1\Section2ClassesExercises.runtimeconfig.dev.json
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\bin\Debug\netcoreapp3.1\Section2ClassesExercises.dll
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\bin\Debug\netcoreapp3.1\Section2ClassesExercises.pdb
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.csprojAssemblyReference.cache
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.csproj.CoreCompileInputs.cache
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.AssemblyInfoInputs.cache
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.AssemblyInfo.cs
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.dll
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.pdb
+D:\mfhco\Documents\Work\C#\C# Intermediate Classes, Interfaces and OOP\apps\Section2ClassesExercises\obj\Debug\netcoreapp3.1\Section2ClassesExercises.genruntimeconfig.cache
